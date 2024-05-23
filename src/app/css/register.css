@@ -1,0 +1,31 @@
+.card {
+  width: 100%;
+  display: flex;
+  box-shadow: 0px 5px 12px #d0d0d0;
+  max-width: 500px;
+  border-top: 4px solid;
+  border-top-color: currentcolor;
+  border-color: red;
+  flex-direction: column;
+  padding: 40px;
+  gap: 20px;
+  text-align: center;
+  align-items: center;
+  margin-top: 100px;
+  /* margin-top: 100px;  */
+}
+.cardTitle {
+  text-align: center;
+}
+.textCard {
+  color: rgb(105, 101, 101);
+}
+.button {
+  background-color: red;
+  color: white;
+  width: 300px;
+  height: 50px;
+  border-radius: 150px;
+  border: 0px;
+  font-size: medium;
+}
