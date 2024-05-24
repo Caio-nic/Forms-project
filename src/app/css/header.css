@@ -6,7 +6,6 @@
   box-shadow: 0 4px 6px 0 rgba(12, 0, 46, 0.05);
   justify-content: space-between;
   align-items: center;
-  /* position: relative; */
 }
 .logoShoes {
   margin-left: 60px;
@@ -22,7 +21,7 @@
 .menu {
   display: flex;
   flex-direction: row;
-  gap: 40px;
+  gap: 20px;
   margin-right: 60px;
 }
 .menu :hover {
