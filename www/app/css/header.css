@@ -16,7 +16,7 @@
   font-size: 50px;
 }
 .z-title {
-  color: red;
+  color: orange;
 }
 .menu {
   display: flex;
@@ -26,5 +26,5 @@
 }
 .menu :hover {
   text-decoration: overline;
-  text-decoration-color: red;
+  text-decoration-color: orange;
 }
