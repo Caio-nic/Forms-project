@@ -70,3 +70,6 @@ body {
 #message {
   width: 530px;
 }
+.confirmation {
+  color: green;
+}
